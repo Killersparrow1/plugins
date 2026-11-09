@@ -1,4 +1,4 @@
-This is a plugin for [caelestia-kde](https://github.com/ladybug-me/caelestia-kde) to show the battery level of PS5, Steam or any other controllers.
+This is a plugin for [caelestia-kde](https://github.com/caelestia-kde/caelestia) to show the battery level of PS5, Steam or any other controllers.
 
 *Not affiliated with or endorsed by Sony Interactive Entertainment or Valve. PlayStation, PS5, DualSense and Steam are trademarks of their respective owners.*
 

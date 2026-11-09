@@ -4,7 +4,7 @@ This document is the specification for any program (e.g. the Caelestia shell, or
 
 ## Repository
 
-`https://github.com/ladybug-me/caelestia-kde-plugins` - branch `main`.
+`https://github.com/caelestia-kde/plugins` - branch `main`.
 
 ## Store layout
 
@@ -75,14 +75,14 @@ Two equivalent ways to enumerate plugins:
 
 ### A. Fetch the index (recommended for thin clients)
 
-1. `GET https://raw.githubusercontent.com/ladybug-me/caelestia-kde-plugins/main/index.json`
+1. `GET https://raw.githubusercontent.com/caelestia-kde/plugins/main/index.json`
 2. Read `plugins[]` for ids, versions, types, and `path`s.
 
 ### B. Clone the repository (mirrors `caelestia-update-check`)
 
 ```
 git clone --bare --filter=blob:none --single-branch --branch main \
-  https://github.com/ladybug-me/caelestia-kde-plugins.git <cache-dir>
+  https://github.com/caelestia-kde/plugins.git <cache-dir>
 ```
 
 then read `plugins/<id>/metadata.json` from the tree. To refresh, `git fetch` and re-read.

@@ -47,7 +47,7 @@ VERSION_FILE_SUGGESTION = "cat ~/.config/caelestia/version"
 
 TEMPLATE_FILES = {"bug": BUG_TEMPLATE_FILE, "feature": FEATURE_TEMPLATE_FILE}
 
-GITHUB_ISSUES_URL = "https://github.com/ladybug-me/caelestia-kde/issues"
+GITHUB_ISSUES_URL = "https://github.com/caelestia-kde/caelestia/issues"
 
 # ---------------------------------------------------------------------------
 # Hardcoded mirrors (fallback when the yml files cannot be parsed)

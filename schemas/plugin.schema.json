@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "$id": "https://github.com/ladybug-me/caelestia-kde-plugins/blob/main/schemas/plugin.schema.json",
+  "$id": "https://github.com/caelestia-kde/plugins/blob/main/schemas/plugin.schema.json",
   "title": "Caelestia plugin manifest",
   "description": "metadata.json for a single plugin in the Caelestia community plugin store. Each plugin lives in its own folder under plugins/; the folder name is the plugin's immutable id.",
   "type": "object",

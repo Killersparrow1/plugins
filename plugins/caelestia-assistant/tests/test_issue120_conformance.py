@@ -1,6 +1,6 @@
 """Issue #120 conformance (exponential-build-5 A9).
 
-One test file mapping EVERY bullet of ladybug-me/caelestia-kde#120 to a
+One test file mapping EVERY bullet of caelestia-kde/caelestia#120 to a
 command and an assertion, plus the honest implemented / partial /
 not-implemented table. The table is the single source of truth: a test
 fails when reality drifts from the declared status in EITHER direction

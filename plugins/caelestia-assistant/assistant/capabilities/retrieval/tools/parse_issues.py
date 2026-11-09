@@ -39,7 +39,7 @@ DEFAULT_HTML_DIR = REPO_ROOT.parent / "research" / "corpus-html"
 DEFAULT_ISSUES = (6, 14, 333, 402, 409, 416, 418, 461, 528, 616, 641, 763, 120, 802)
 OPEN_ISSUES = (120, 802)
 
-REPO_URL = "https://github.com/ladybug-me/caelestia-kde"
+REPO_URL = "https://github.com/caelestia-kde/caelestia"
 
 # Curated retrieval tags per issue (honest keywords from the thread content).
 TAGS: Dict[int, List[str]] = {

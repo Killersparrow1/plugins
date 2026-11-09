@@ -1,6 +1,6 @@
 # caelestia-assistant
 
-An offline-first assistant for [Caelestia](https://github.com/ladybug-me/caelestia-kde),
+An offline-first assistant for [Caelestia](https://github.com/caelestia-kde/caelestia),
 the KDE Plasma 6 desktop shell - contributed to the Caelestia community
 plugin store.
 
@@ -71,7 +71,7 @@ The upstream README follows, verbatim.
 
 # caelestia-assistant
 
-Offline-first assistant for [caelestia-kde](https://github.com/ladybug-me/caelestia-kde):
+Offline-first assistant for [caelestia-kde](https://github.com/caelestia-kde/caelestia):
 deterministic diagnostics, learned routing, natural-language settings editing
 (issue #120), stream scanning, and a consent-gated agent — **Python stdlib
 only, no LLM in the critical path, no model files ever bundled**.
