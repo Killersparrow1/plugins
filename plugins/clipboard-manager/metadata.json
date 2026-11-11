@@ -1,0 +1,18 @@
+{
+  "id": "clipboard-manager",
+  "name": "Clipboard Manager",
+  "description": "A clipboard history manager for Caelestia, powered by cliphist and wl-clipboard.",
+  "version": "0.1.0",
+  "type": "quickshell",
+  "ui": "main.qml",
+  "icon": "clipboard.svg",
+  "author": {
+    "name": "killersparrow1",
+    "url": "https://github.com/Killersparrow1"
+  },
+  "license": "GPL-3.0-or-later",
+  "keywords": ["clipboard", "history", "utility"],
+  "shell-compat": {
+    "min": "2.3"
+  }
+}
